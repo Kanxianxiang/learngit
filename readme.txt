@@ -1,2 +1,2 @@
-git learning 
-git is the best distribute version controller
+Git is a version control system 
+Git if free software for GPL
