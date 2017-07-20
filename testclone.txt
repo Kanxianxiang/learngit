@@ -1,0 +1,1 @@
+test if git clone can associate the remote reposity
